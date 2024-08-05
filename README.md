@@ -1,4 +1,4 @@
-<p align="center">
+d<p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
@@ -142,4 +142,4 @@ Go to Active Directory Users and Computers, select a random username to acquire 
 <p>
 Log into the Client vm using the generated username you have selected (mydomain.com\username) and the password "Password1". If this works everything was done correctly.
 <p>
-This is the conclusion of the lab
+End
